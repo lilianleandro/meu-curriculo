@@ -33,8 +33,7 @@ export const Description = styled.h2`
   border: 2px solid #d9d8d2;
   padding: 16px;
   margin-bottom: 16px;
-  width: 100%;
-  max-width: 350px;
+
   @media (min-width: 768px) {
     width: 800px;
   }
@@ -64,7 +63,8 @@ export const SectionContent = styled.section`
   line-height: 28px;
   padding: 16px;
   margin: 16px;
-  width: 350px;
+  width: 100%;
+  max-width: 350px;
 `
 
 export const ContactForm = styled.form`
@@ -95,6 +95,7 @@ export const FiledsetForm = styled.fieldset`
   margin-top: 1em;
   padding: 8px;
   display: flex;
+  width: 100%;
   flex-direction: column;
   @media (max-width: 768px) {
     width: 280px;

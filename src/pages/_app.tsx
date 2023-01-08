@@ -6,10 +6,10 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Projeto da Lili</title>
-        <link rel="shortcut icon" href="/img/icon-512.png" />
-        <link rel="apple-touch-icon" href="/img/icon-512.png" />{' '}
-        <meta name="theme-color" content="#06092B" />
+        <title>Lilian Leandro</title>
+        <link rel="shortcut icon" href="/img/flower-pot.png" />
+        <link rel="apple-touch-icon" href="/img/flower-pot.png" />{' '}
+        <meta name="theme-color" content="#bd97ff" />
         <link rel="manifest" href="/manifest.json" />
         <meta
           name="description"
