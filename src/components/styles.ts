@@ -57,14 +57,14 @@ export const Section = styled.div`
 export const SectionContent = styled.section`
   font-size: 16px;
   text-align: left;
-
   font-weight: 300;
+
   background-color: #ccc;
   line-height: 28px;
   padding: 16px;
   margin: 16px;
   width: 100%;
-  max-width: 350px;
+  max-width: 360px;
 `
 
 export const ContactForm = styled.form`

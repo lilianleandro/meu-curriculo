@@ -34,7 +34,7 @@ const Main = ({
         <b>Situação</b>: Cursando
       </S.SectionContent>
     </S.Section>
-    <S.TitleSection>Formação Coplementar</S.TitleSection>
+    <S.TitleSection>Formação Complementar</S.TitleSection>
     <S.Section>
       <S.SectionContent>
         <b>Curso</b>: Curso Web Moderno - Javascript
@@ -45,7 +45,7 @@ const Main = ({
         <br />
       </S.SectionContent>
       <S.SectionContent>
-        <b>Curso</b>:NextJS, GraphQL/GraphCMS e Leaflet na prática! -{' '}
+        <b>Curso</b>: NextJS, GraphQL/GraphCMS e Leaflet na prática! -{' '}
         <a href="https://my-locals.vercel.app/" title="meu projeto">
           Link do projeto!
         </a>
