@@ -56,9 +56,8 @@ export const Section = styled.div`
 
 export const SectionContent = styled.section`
   font-size: 16px;
-  text-align: left;
+  align-self: center;
   font-weight: 300;
-
   background-color: #ccc;
   line-height: 28px;
   padding: 16px;
